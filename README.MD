@@ -1,4 +1,4 @@
-# DDoS Parody
+# DDoS Parody Using Axios
 
 This is the "DDoS Parody" project, a simple web application that allows users to simulate an attack on a specific website by specifying the number of requests. This project is a parody created solely for educational and entertainment purposes and should not be taken seriously or used for malicious intent.
 
